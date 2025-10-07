@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/mobile-first-responsive-layout-article-VNR_cCFjue)
+- Live Site URL: [Live site URL](https://ahmed-osama99.github.io/article-component-challenge/)
 
 ## My process
 
